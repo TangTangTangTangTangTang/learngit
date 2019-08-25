@@ -3,4 +3,5 @@ it is free software under the GPL
 hello
 re hello
 ree hello
-creat a dev branch 2
+<<<<<<< HEAD
+creat a dev branch 12
